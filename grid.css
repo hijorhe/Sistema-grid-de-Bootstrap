@@ -1,0 +1,19 @@
+.row div{
+    margin: 0.25rem;
+}
+
+.col-sm{
+    background-color: antiquewhite;
+}
+
+.col-md{
+    background-color: aqua;
+}
+
+.col-lg{
+    background-color: antiquewhite;
+}
+
+.col-xl{
+    background-color: aqua;
+}
